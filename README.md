@@ -36,11 +36,11 @@ const ignacio = {
   <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/php-ar21.svg" width="80"/>
 <p/>
 <p align="center">
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/git.svg" width="40"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/git.svg" width="70"/>&nbsp&nbsp&nbsp&nbsp
   <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/firebase-ar21.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/mongodb-ar21.svg" width="40"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/mysql.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/postgresql-horizontal.svg" width="100"/>
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/mongodb-ar21.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/mysql-horizontal.svg" width="120"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/postgresql-horizontal.svg" width="150"/>
 <p/>
 <p align="center">
   <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/html5.svg" width="40"/>&nbsp&nbsp&nbsp&nbsp
