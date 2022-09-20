@@ -1,63 +1,93 @@
 <h1 align="center">Bienvenido al Perfil de <a href="https://github.com/ignaciotomasico12">Ignacio Tomás</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00FFC3&size=25&lines=Bienvenid@+a+mi+Perfil+de+GitHub!;Soy+un+Desarrollador+Front+end;Soy+un+programador+autodidacta;Soy+un+desarrollador+React" />
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00FFC3&size=25&lines=Bienvenid@+a+mi+Perfil+de+GitHub!;Soy+un+Desarrollador+Front+End;Soy+un+programador+autodidacta;Soy+un+desarrollador+React" />
   </a>
 </p>
 
-<img align="left" src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/Coding.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="100%" height="auto" />
+<img align="left" src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/gif/Coding.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="100%" height="auto" />
 
 <p>.</p>
 
-#### Un poco más sobre mí
-
-<ul>
-  <li>👋 Hoola, soy @IgnacioTomas</li>
-  <li>💻 Desarrollo Aplicaciones Web en React y Java Script.</li>
-  <li>📚 Estoy formandome actualmente en React, Node.js y TypeScript</li>
-  <li>💼 Actualmente soy un Desarrollador Front end en Trendico Group.</li>
-  <li>🌐 Portfolio Website, https://ignaciotomas.com</li>
-</ul>
+<h3 align="center"> Un poco más sobre mí &nbsp&nbsp&nbsp<img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/gif/Designer.gif" width="80"/></h3>
 
 ```javascript
 const ignacio = {
-  code: ["Java Script", "React", "Node.js", "HTML", "CSS", "SASS"],
-  askMeAbout: ["Web Dev", "Frontend End", "React"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "React", "Type Script"],
-      database: ["MySQL", "PostgreSQL", "MongoDB"],
+  fullName: "Ignacio Tomás Floría",
+  age: 22,
+  studies: "formandome en React, JavaScript, TypeScript y Node.js",
+  company: "Trendico Group S.L.",
+  website: "https://ignaciotomas.com",
+  languajes: {
+      web: ["HTML", "React", "JavaScript", "TypeScript", "Node.js", "PHP"],
+      styles: ["CSS", "SASS", "LESS"],
+      dataBase: ["MySQL", "PostgreSQL", "MongoDB"],
   }
 }
 ```
 
-#### Estadísticas
-<a href="https://github-readme-stats.vercel.app/api?username=ignaciotomasico12" align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ignaciotomasico12&show_icons=true&include_all_commits=true&title_color=00FFC3&bg_color=1E2D40&text_color=FFF&border_color00FFC3&icon_color=00FFC3&hide_border=true" alt="Estadísticas de Ignacio Tomas" />
-</a>
 
-<br />
+<h3 align="center"> Mis lenguajes de programación</h3>
 
-<a href="https://github-readme-stats.vercel.app/api?username=ignaciotomasico12" align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciotomasico12&layout=compact&title_color=00FFC3&bg_color=1E2D40&text_color=FFF&border_color00FFC3&icon_color=00FFC3&hide_border=true" />
-</a>
-
-#### Mis lenguajes de programación
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<p align="center">
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/reactjs-ar21.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/nodejs-ar21.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/typescript.svg" width="40"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/javascript.svg" width="40"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/php-ar21.svg" width="80"/>
+<p/>
+<p align="center">
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/git.svg" width="40"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/firebase-ar21.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/mongodb-ar21.svg" width="40"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/mysql.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/postgresql-horizontal.svg" width="100"/>
+<p/>
+<p align="center">
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/html5.svg" width="40"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/css3.svg" width="40"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/sass-lang-ar21.svg" width="100"/>
 <p/>
 
+<h3 align="center">Estadísticas</h3>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ignaciotomasico12&show_icons=true&include_all_commits=true&title_color=00FFC3&bg_color=1E2D40&text_color=FFF&border_color00FFC3&icon_color=00FFC3&hide_border=true" alt="Estadísticas de Ignacio Tomas" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciotomasico12&layout=compact&title_color=00FFC3&bg_color=1E2D40&text_color=FFF&border_color00FFC3&icon_color=00FFC3&hide_border=true" />
+</p>
+
+<br/>
+
+<p align="center"> 
+  <samp>
+    Contador de Visitas
+  </samp>
+</p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/ignaciotomasico12/count.svg" alt="ignaciotomasico12 profile views" /> 
+</p>
+
+
+<hr/>
+
+<h3 align="center">Contacta conmigo</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ignacio-tom%C3%A1s-flor%C3%ADa-b0232b1b1/">
+    <img  alt="Linkedin" width="22px" src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/social-media/linkedin.svg"/>
+  <a/>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.instagram.com/ignaciotomasico">
+    <img  alt="Instagram" width="22px" src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/social-media/instagram.svg"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/ignaciotomasico12">
+    <img alt="GitHub" width="22px" src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/social-media/github.svg"/>
+  </a>
+</p>
 
 ------
-Copywright: [ignaciotomasico12](https://github.com/ignaciotomasico12)
+Copywright: [ignaciotomasico12](https://github.com/ignaciotomasico12) <br/>
 Última edición: 19/09/2022.
 
