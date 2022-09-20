@@ -29,23 +29,23 @@ const ignacio = {
 <h3 align="center"> Mis lenguajes de programación</h3>
 
 <p align="center">
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/react.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/node.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/typescript.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/javascript.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/php.svg" width="100"/>
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/react.svg" width="110"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/node.svg" width="110"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/typescript.svg" width="110"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/javascript.svg" width="110"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/php.svg" width="110"/>
 <p/>
 <p align="center">
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/git.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/firebase.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/mongodb.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/mysql.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/postgresql.svg" width="100"/>
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/git.svg" width="110"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/firebase.svg" width="110"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/mongodb.svg" width="110"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/mysql.svg" width="110"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/postgresql.svg" width="110"/>
 <p/>
 <p align="center">
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/html.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/css.svg" width="100"/>&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/sass.svg" width="100"/>
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/html.svg" width="110"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/css.svg" width="110"/>&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/ignaciotomasico12/ignaciotomasico12/blob/main/img/languages/sass.svg" width="110"/>
 <p/>
 
 <h3 align="center">Estadísticas</h3>
