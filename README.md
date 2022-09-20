@@ -14,7 +14,7 @@
 const ignacio = {
   fullName: "Ignacio Tomás Floría",
   age: 22,
-  studies: "formandome en React, JavaScript, TypeScript y Node.js",
+  studies: "Formandome en React, JavaScript, TypeScript y Node.js",
   company: "Trendico Group S.L.",
   website: "https://ignaciotomas.com",
   languajes: {
