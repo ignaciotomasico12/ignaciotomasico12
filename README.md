@@ -58,17 +58,6 @@ const ignacio = {
 
 <br/>
 
-<p align="center"> 
-  <samp>
-    Contador de Visitas
-  </samp>
-</p>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/ignaciotomasico12/count.svg" alt="ignaciotomasico12 profile views" /> 
-</p>
-
-
 <hr/>
 
 <h3 align="center">Contacta conmigo</h3>
