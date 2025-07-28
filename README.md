@@ -13,13 +13,12 @@
 ```javascript
 const ignacio = {
   fullName: "Ignacio Tomás Floría",
-  age: 23,
-  studies: "Formandome en React, JavaScript, TypeScript y Node.js",
-  company: "Avanade Spain",
+  age: 25,
+  company: "NTT Data,
   website: "https://ignaciotomas.com",
   languajes: {
-      web: ["HTML", "React", "JavaScript", "TypeScript", "Node.js", "PHP"],
-      styles: ["CSS", "SASS", "LESS"],
+      web: ["HTML", "Next JS", "React", "JavaScript", "TypeScript", "Node.js", "PHP"],
+      styles: ["Tailwind", "CSS", "SASS", "LESS"],
       dataBase: ["MySQL", "PostgreSQL", "MongoDB"],
   }
 }
