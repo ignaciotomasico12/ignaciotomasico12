@@ -14,7 +14,7 @@
 const ignacio = {
   fullName: "Ignacio Tomás Floría",
   age: 25,
-  company: "NTT Data,
+  company: "NTT Data",
   website: "https://ignaciotomas.vercel.app",
   languajes: {
       web: ["HTML", "Next JS", "React", "JavaScript", "TypeScript", "Node.js", "PHP"],
